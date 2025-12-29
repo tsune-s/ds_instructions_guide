@@ -23,3 +23,4 @@ outputs/*
 # MLflowの出力ディレクトリ
 mlruns/
 multirun/
+venv
